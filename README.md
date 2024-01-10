@@ -1,9 +1,9 @@
 
 ###   Welcome to my Github Profile! 🐞🔍
    
- ### Please, take a sit, let's drink a cup of ☕ while I introduce me:
+ ### Please, take a sit, let's drink a cup of ☕ while I introduce myself:
 
-- 🔭 I’m currently working on Interface Tests using Java, Selenium, Junit5, Gradle and Hamcrest
+- 🔭 I’m currently working on Springboot, Mobile automation, and non-functional tests.
 - 🌱 I’m currently learning  Javascript, Appium, Cypress, RobotFramework, WebdriverIo, Jmeter, and K6.
 - 🤝 I’m looking to collaborate on  the community CTG - comunidade do Tester Global 2.0 
 - 💬 Ask me about How to start as a Quality Assurance or programming in Java until the intermediated level, Free courses, and anything you consider important to develop yourself! 
