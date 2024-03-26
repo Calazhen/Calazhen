@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on Springboot, Mobile automation, and non-functional tests.
 - 🌱 I’m currently learning  Javascript, Appium, Cypress, RobotFramework, WebdriverIo, Jmeter, and K6.
-- 🤝 I’m looking to collaborate on  the community CTG - comunidade do Tester Global 2.0 
+- 🤝 I’m looking to collaborate on  the PTQS - Programa de Testes e Qualidade de Software Júlio de Lima 
 - 💬 Ask me about How to start as a Quality Assurance or programming in Java until the intermediated level, Free courses, and anything you consider important to develop yourself! 
 - 📫 How to reach me: https://www.linkedin.com/in/henrique-calazans/
 - 😄 Pronouns: He/his/him
-- ⚡ Fun fact: I like Olives, Playstantion's old games, I like learning things on my own, my native language is Portuguese but we also can talk in English and Spanish.
+- ⚡ Fun fact: We also can talk in English and Spanish.
 
 <br/>
 <br/>
